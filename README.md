@@ -1,1 +1,1 @@
-# LocalAIAgentWithRAG
+# Agentic AI Knowledge Assistant
